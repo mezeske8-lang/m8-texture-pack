@@ -5,36 +5,93 @@
       "replace_ids": [
         7658055825
       ],
-      "url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000003960-removebg-preview.png"
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000003960-removebg-preview.png"
+    },
+    {
+      "name": "SkyFt",
+      "replace_ids": [
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/lv_0_20261010163531.jpg"
+    },
+    {
+      "name": "SkyDn",
+      "replace_ids": [
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/162b0fca7857eaf8e239a19bedbfcbef.jpg"
+    },
+    {
+      "name": "SkyLf",
+      "replace_ids": [
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/162b0fca7857eaf8e239a19bedbfcbef.jpg"
+    },
+    {
+      "name": "SkyBk",
+      "replace_ids": [
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/lv_0_20261010163531.jpg"
+    },
+    {
+      "name": "SkyRt",
+      "replace_ids": [
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/162b0fca7857eaf8e239a19bedbfcbef.jpg"
+    },
+    {
+      "name": "SkyUp",
+      "replace_ids": [
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/162b0fca7857eaf8e239a19bedbfcbef.jpg"
     }
   ]
-} ],
-          "mode": "cdn",
-          "enabled": true,
-          "cdn_url": 
-        },
-        {
-          "name": "SkyFt",
-          "replace_ids": [
-            14147882761,
-            12261809766,
-            135908632589654,
-            84214501374682,
-            10196550367,
-            2108482231
-          ],
-          "mode": "cdn",
-          "enabled": true,
-          "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/lv_0_20261010163531.jpg"
-"name": "SkyDn",
-          "replace_ids": [
-            2108545280,
-            10196550667,
-            14147882149,
-            103020541883227,
-            89972436184102,
-            12261813110
-          ],
-          "mode": "cdn",
-          "enabled": true,
-          "cdn_url": 
+}
