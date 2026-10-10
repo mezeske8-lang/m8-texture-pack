@@ -8,4 +8,21 @@
       "url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000003960-removebg-preview.png"
     }
   ]
-}
+} ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/slappy64/i9-sky-assets/main/i9skybk.png"
+        },
+        {
+          "name": "SkyFt",
+          "replace_ids": [
+            14147882761,
+            12261809766,
+            135908632589654,
+            84214501374682,
+            10196550367,
+            2108482231
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "
