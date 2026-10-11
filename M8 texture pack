@@ -105,17 +105,36 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000003977-removebg-preview.png"
+    },
+    {
+      "name": "KiwiSoda Font",
+      "replace_ids": [
+        12187323909,
+        12187320363,
+        12187354260,
+        12187342816,
+        12187280273,
+        12187303601,
+        12187262242,
+        12187288714,
+        12187341500,
+        12187271237,
+        12187341020
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/KiwiSoda.ttf"
+    },
+    {
+      "name": "Tuturu Killsound",
+      "replace_ids": [
+        16530229616,
+        16530229541,
+        16530229695
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/Tuturu%20-%20Sound%20Effect%20HD.mp3"
     }
-  ]12187323909
-12187323909
-12187320363
-12187354260
-12187342816
-12187280273
-12187303601
-12187262242
-12187288714
-12187341500
-12187271237
-12187341020 cdnurl:https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/KiwiSoda.ttf
+  ]
 }
