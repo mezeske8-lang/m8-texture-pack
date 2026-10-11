@@ -21,7 +21,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/lv_0_20261010163531.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/ft.jpg"
     },
     {
       "name": "SkyDn",
@@ -63,7 +63,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/lv_0_20261010163531.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/ft.jpg"
     },
     {
       "name": "SkyRt",
