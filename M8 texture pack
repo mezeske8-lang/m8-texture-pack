@@ -7,7 +7,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004110-removebg-preview.png"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004113-removebg-preview.png"
     },
     {
       "name": "SkyFt",
@@ -173,7 +173,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004096-removebg-preview.png"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004114-removebg-preview.png"
     }
   ]
 }
