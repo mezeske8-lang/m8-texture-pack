@@ -146,3 +146,14 @@
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004102-removebg-preview.png"
     }
+{
+      "name": "Leave Icon",
+      "replace_ids": [
+        17838290166,
+        17619444538,
+        108220438104376
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004103-removebg-preview.png"
+    }
