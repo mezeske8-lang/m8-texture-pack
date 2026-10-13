@@ -94,9 +94,6 @@
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/IMG_20261004_220800.jpg"
     },
     {
-     
-    },
-    {
       "name": "M8 Font",
       "replace_ids": [
         12187323909,
@@ -125,10 +122,8 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/Tuturu%20-%20Sound%20Effect%20HD.mp3"
-    }
-  ]
-}
-{
+    },
+    {
       "name": "Level Icon",
       "replace_ids": [
         81461991645938
@@ -136,8 +131,8 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004101-removebg-preview.png"
-    }
-{
+    },
+    {
       "name": "Shop Icon",
       "replace_ids": [
         17619445340
@@ -145,8 +140,8 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004102-removebg-preview.png"
-    }
-{
+    },
+    {
       "name": "Leave Icon",
       "replace_ids": [
         17838290166,
@@ -156,8 +151,8 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004103-removebg-preview.png"
-    }
-{
+    },
+    {
       "name": "Loading Squid",
       "replace_ids": [
         133917828562858,
@@ -166,4 +161,19 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004104-removebg-preview.png"
+    },
+    {
+      "name": "Item Background",
+      "replace_ids": [
+        13220167337,
+        13188242420,
+        13220167472,
+        13188153054,
+        13188242287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004096-removebg-preview.png"
     }
+  ]
+}
