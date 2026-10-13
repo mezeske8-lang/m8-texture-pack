@@ -157,3 +157,13 @@
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004103-removebg-preview.png"
     }
+{
+      "name": "Loading Squid",
+      "replace_ids": [
+        133917828562858,
+        121503061771505
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004104-removebg-preview.png"
+    }
