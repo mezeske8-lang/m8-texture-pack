@@ -35,7 +35,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/all.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/IMG_20261004_220800.jpg"
     },
     {
       "name": "SkyLf",
@@ -49,7 +49,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/all.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/IMG_20261004_220800.jpg"
     },
     {
       "name": "SkyBk",
@@ -77,7 +77,7 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/all.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/IMG_20261004_220800.jpg"
     },
     {
       "name": "SkyUp",
@@ -91,23 +91,13 @@
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/up.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/IMG_20261004_220800.jpg"
     },
     {
-      "name": "Item background",
-      "replace_ids": [
-        13220167337,
-        13188242420,
-        13220167472,
-        13188153054,
-        13188242287
-      ],
-      "mode": "cdn",
-      "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000003977-removebg-preview.png"
+     
     },
     {
-      "name": "KiwiSoda Font",
+      "name": "M8 Font",
       "replace_ids": [
         12187323909,
         12187320363,
