@@ -128,3 +128,12 @@
     }
   ]
 }
+{
+      "name": "Level Icon",
+      "replace_ids": [
+        81461991645938
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/mezeske8-lang/m8-texture-pack/main/1000004101-removebg-preview.png"
+    }
